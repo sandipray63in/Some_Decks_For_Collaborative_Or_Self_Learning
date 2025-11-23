@@ -8,6 +8,6 @@
 4) Most of the content needs beautification to make the slides/decks more professional.              
 5) Also some resources links might not be working due to various reasons, although they were working at the time of initial drafting.             
 6) One can probably get much better content by going through various Udemy/Coursera/Pluralsight courses(or via other avenues like ChatGPT/Google Browser Gemini AI) etc but
-   what I have tried to do here is to put the content in some logical orderly structure in a centralised place based on my limited knowledge so that it will be easier for self learning of some complex topics
+   what I have tried to do here is to put the content in some logical orderly structure(atleast to some extent) in a centralised place based on my limited knowledge so that it will be easier for self learning of some complex topics
    as well.                    
-7) As far as "Modern-UI/Native-Mobile" & "AI/ML/DL etc" development are concerned, I am still learning and so I consider myself as a novice in these fields.          
+7) As far as "Modern-UI/Native-Mobile" & "AI/ML/DL etc" development are concerned, I am still learning and so I consider myself as a total novice in these fields.          
