@@ -1,5 +1,4 @@
-This file will have all the updates from today(24th March 2026) in change log format but maynot be exhaustive and comprehensive mentioning grannular details like that of        
-traditional Change Log.       
+This file will have all the updates from today(24th March 2026) in change log format but maynot be exhaustive and comprehensive mentioning grannular details like that of traditional Change Log.       
 (Update - 24th March 2026)         
  a) Reveamped most of the earlier slides to incorporate better content based on whatever I have explored and learnt during my "kind of bench period" in my current comp for      
     last ~3.5 months.       
